@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectBanner5.gif)
+![Logo](https://raw.githubusercontent.com/beydah/Assets-Repository/main/gifs/BeydahGithubProjectBanner5.gif)
 
 # 10 C Language Projects (Last LVL)
 
@@ -20,7 +20,7 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Screenshots
 
-![Screenshots](https://raw.githubusercontent.com/beydah/images/main/images/BeydahGithubProjectScreen5.gif)
+![Screenshots](https://raw.githubusercontent.com/beydah/Assets-Repository/main/gifs/BeydahGithubProjectScreen5.gif)
 
   
 ## Features
