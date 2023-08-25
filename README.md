@@ -25,16 +25,6 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Features
 
-- Reversing an Array Using Recursion: This project involves reversing an array using recursion, where the order of elements is reversed.
-
-- Finding the Largest of Three Numbers with Pointers: The project finds the largest number among three given numbers using pointers to access and compare the values.
-
-- Swapping Two Numbers Using Pointers: In this project, two numbers are swapped using pointers to modify their values in memory.
-
-- Printing an Array Using Pointers: The project prints the elements of an array using pointers to access and display the array's content.
-
-- Vowels and Consonants in a String Using Pointers: This project identifies and counts the number of vowels and consonants in a string using pointers to traverse the characters.
-
 - Bubble Sort: The project sorts an array using the Bubble Sort algorithm, where adjacent elements are compared and swapped if necessary to arrange them in order.
 
 - Insertion Sort: In this project, the Insertion Sort algorithm is used to sort an array by inserting elements into their correct positions within a sorted subarray.
